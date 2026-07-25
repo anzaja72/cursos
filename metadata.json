@@ -1,0 +1,6 @@
+{
+  "name": "Sorteo Beca IA Marketing 2026",
+  "description": "Landing page minimalista para sorteo de Beca Completa del 100% en Marketing Digital con IA y captura de prospectos de alto valor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
